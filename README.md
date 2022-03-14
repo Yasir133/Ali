@@ -16,10 +16,10 @@ pip2 install mechanize
 
 pip2 install bs4
 
-git clone https://github.com/DINO786/Dino_King
+git clone https://github.com/Yasir133/Ali
 
-cd Dino_King
+cd Ali
 
-python2 Dino_King.py
+python2 Yasir_Ali.py
 
 Enjoy❤😌
